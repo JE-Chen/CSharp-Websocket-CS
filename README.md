@@ -1,1 +1,2 @@
-# C-Sharp-WebsocketServer
+### C# WebSocket Client Server example 
+* using WebSocketSharp
