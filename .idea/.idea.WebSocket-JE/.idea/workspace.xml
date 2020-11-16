@@ -23,18 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e43578d-c19a-4a7c-8f27-c605bf92d345" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebSocket-JE/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebSocket-JE/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebSocket-JE/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebSocket-JE/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebSocket-JE/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebSocket-JE/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebSocket-JE/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebSocket-JE/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebSocket-JE/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebSocket-JE/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebSocket-JE/WebSocketServer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebSocket-JE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebSocket-JE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSocket-JE/WebSocketClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebSocket-JE/WebSocketClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSocket-JE/WebSocketServer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebSocket-JE/WebSocketServer.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +40,10 @@
       <list>
         <option value="$PROJECT_DIR$/WebSocket-JE/WebSocket.cs" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/WebSocket-JE/WebSocketClient.cs" />
-        <option value="$PROJECT_DIR$/WebSocket-JE/WebSocketServer.cs" />
         <option value="$PROJECT_DIR$/WebSocket-JE/WebSocketMessageService.cs" />
         <option value="$PROJECT_DIR$/WebSocket-JE/Program.cs" />
+        <option value="$PROJECT_DIR$/WebSocket-JE/WebSocketServer.cs" />
+        <option value="$PROJECT_DIR$/WebSocket-JE/WebSocketClient.cs" />
       </list>
     </option>
   </component>
@@ -106,7 +97,7 @@
       <workItem from="1605522105197" duration="711000" />
       <workItem from="1605522840976" duration="37000" />
       <workItem from="1605522897521" duration="2076000" />
-      <workItem from="1605529490061" duration="2353000" />
+      <workItem from="1605529490061" duration="3949000" />
     </task>
     <servers />
   </component>
@@ -130,22 +121,22 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605531630529">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605537345698">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605531630529" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1605531630529">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605537345698" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1605537345698">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605531630529" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1605531630529">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605537345698" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1605537345698">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605531630529" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1605531630529">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605537345698" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1605537345698">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605531630529" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605537345698" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1605522874698">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -12,8 +12,14 @@ namespace WebSocketClient_JE
                 webSocketClient.OnMessage += (sender, e) =>
                     Console.WriteLine(e.Data);
                 webSocketClient.Connect();
-                webSocketClient.Send("EEE");
-                Console.ReadKey(true);
+                webSocketClient.Send("C# Connect");
+                while (true)
+                {
+                    String Command = Console.ReadLine();
+                    if(Command.Equals("exit"))
+                        break;
+                    webSocketClient.Send(Command);
+                }
             }
         }
     }

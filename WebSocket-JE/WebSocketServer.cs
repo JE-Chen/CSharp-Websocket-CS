@@ -6,14 +6,17 @@ namespace WesocketServer_JE
 {
     public class WebSocketServerJE
     {
-        public WebSocketServerJE(String url1,String url2)
+        public WebSocketServerJE(String url1, String url2)
         {
             var webSocketServer = new WebSocketServer(url1);
             webSocketServer.AddWebSocketService<WebSocket>(url2);
-            webSocketServer.Start ();
-            Console.ReadKey (true);
-            webSocketServer.Stop ();
-
+            webSocketServer.Start();
+            while (true)
+            {
+                String command = Console.ReadLine();
+                if (command.Equals("exit"))
+                    break;
+            }
         }
     }
 }
