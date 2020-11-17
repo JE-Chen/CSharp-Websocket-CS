@@ -94,6 +94,7 @@
       <workItem from="1605522840976" duration="37000" />
       <workItem from="1605522897521" duration="2076000" />
       <workItem from="1605529490061" duration="4770000" />
+      <workItem from="1605628988700" duration="325000" />
     </task>
     <servers />
   </component>
@@ -112,6 +113,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
