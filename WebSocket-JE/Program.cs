@@ -6,7 +6,6 @@ namespace WebSocket_JE
 {
     class Program
     {
-
         static void Main(string[] args)
         {
             WebSocketClientJE webSocketClientJe = new WebSocketClientJE("ws://192.168.1.36:5050/websocket");

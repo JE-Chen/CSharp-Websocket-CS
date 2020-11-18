@@ -42,8 +42,8 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/WebSocket-JE/WebSocketMessageService.cs" />
         <option value="$PROJECT_DIR$/WebSocket-JE/WebSocketClient.cs" />
-        <option value="$PROJECT_DIR$/WebSocket-JE/WebSocketServer.cs" />
         <option value="$PROJECT_DIR$/WebSocket-JE/Program.cs" />
+        <option value="$PROJECT_DIR$/WebSocket-JE/WebSocketServer.cs" />
       </list>
     </option>
   </component>
@@ -100,6 +100,8 @@
       <workItem from="1605529490061" duration="4770000" />
       <workItem from="1605628988700" duration="325000" />
       <workItem from="1605663959341" duration="627000" />
+      <workItem from="1605671119630" duration="33000" />
+      <workItem from="1605680047424" duration="821000" />
     </task>
     <servers />
   </component>
@@ -124,22 +126,22 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605537643567">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605671152725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605537643567" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1605537643566">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605671152725" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1605671152723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605537643566" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1605537643566">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605671152723" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1605671152723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605537643566" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1605537643567">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605671152723" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1605671152725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605537643567" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605671152725" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1605522874698">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
