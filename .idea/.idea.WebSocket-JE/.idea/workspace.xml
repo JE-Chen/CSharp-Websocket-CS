@@ -22,7 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e43578d-c19a-4a7c-8f27-c605bf92d345" name="Default Changelist" comment="" />
+    <list default="true" id="4e43578d-c19a-4a7c-8f27-c605bf92d345" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebSocket-JE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebSocket-JE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSocket-JE/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebSocket-JE/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebSocket-JE/WebSocketServer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebSocket-JE/WebSocketServer.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,8 +41,8 @@
         <option value="$PROJECT_DIR$/WebSocket-JE/WebSocket.cs" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/WebSocket-JE/WebSocketMessageService.cs" />
-        <option value="$PROJECT_DIR$/WebSocket-JE/WebSocketServer.cs" />
         <option value="$PROJECT_DIR$/WebSocket-JE/WebSocketClient.cs" />
+        <option value="$PROJECT_DIR$/WebSocket-JE/WebSocketServer.cs" />
         <option value="$PROJECT_DIR$/WebSocket-JE/Program.cs" />
       </list>
     </option>
@@ -95,6 +99,7 @@
       <workItem from="1605522897521" duration="2076000" />
       <workItem from="1605529490061" duration="4770000" />
       <workItem from="1605628988700" duration="325000" />
+      <workItem from="1605663959341" duration="627000" />
     </task>
     <servers />
   </component>

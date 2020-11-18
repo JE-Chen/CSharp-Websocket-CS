@@ -6,10 +6,10 @@ namespace WesocketServer_JE
 {
     public class WebSocketServerJE
     {
-        public WebSocketServerJE(String url1, String url2)
+        public WebSocketServerJE(String url1)
         {
             var webSocketServer = new WebSocketServer(url1);
-            webSocketServer.AddWebSocketService<WebSocket>(url2);
+            webSocketServer.AddWebSocketService<WebSocket>("/websocket");
             webSocketServer.Start();
             while (true)
             {
