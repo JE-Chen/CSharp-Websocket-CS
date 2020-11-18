@@ -1,13 +1,12 @@
 ﻿using System;
-using WebSocketSharp;
 
-namespace WebSocketClient_JE
+namespace WebSocket_JE
 {
-    public class WebSocketClientJE
+    public class WebSocketClientJe
     {
-        public WebSocketClientJE(String url)
+        public WebSocketClientJe(string url)
         {
-            using (var webSocketClient = new WebSocket(url))
+            using (var webSocketClient = new WebSocketSharp.WebSocket(url))
             {
                 webSocketClient.OnMessage += (sender, e) =>
                     Console.WriteLine(e.Data);
@@ -15,10 +14,10 @@ namespace WebSocketClient_JE
                 webSocketClient.Send("C# Connect");
                 while (true)
                 {
-                    String Command = Console.ReadLine();
-                    if(Command.Equals("exit"))
+                    string command = Console.ReadLine();
+                    if(command != null && command.Equals("exit"))
                         break;
-                    webSocketClient.Send(Command);
+                    webSocketClient.Send(command);
                 }
             }
         }

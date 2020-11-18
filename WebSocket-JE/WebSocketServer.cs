@@ -1,12 +1,11 @@
 ﻿using System;
 using WebSocketSharp.Server;
-using WebSocket_JE;
 
-namespace WesocketServer_JE
+namespace WebSocket_JE
 {
-    public class WebSocketServerJE
+    public class WebSocketServerJe
     {
-        public WebSocketServerJE(string url1)
+        public WebSocketServerJe(string url1)
         {
             var webSocketServer = new WebSocketServer(url1);
             webSocketServer.AddWebSocketService<WebSocket>("/websocket");
@@ -14,7 +13,7 @@ namespace WesocketServer_JE
             while (true)
             {
                 var command = Console.ReadLine();
-                if (command.Equals("exit"))
+                if (command != null && command.Equals("exit"))
                     break;
             }
         }
